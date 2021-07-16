@@ -10,7 +10,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 
 /* cambien aquí sus tipografías, necesitan definir un par */
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Ubuntu:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Quicksand&display=swap');
 /* cambien aquí sus colores, necesitan definir tres */
 
 :root {
@@ -41,8 +41,8 @@ h5,
 h6,
 p.lead {
     /* asignen aquí la tipografía y peso que corresponda para los títulos */
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
 }
 
 a {
